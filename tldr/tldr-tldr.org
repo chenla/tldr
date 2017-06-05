@@ -25,3 +25,77 @@
 
 * Introduction
 
+This is the TL;DR for Chenla TL;DRs.
+
+** Cover Note
+
+Chenla TL;DRs are cautonary gateways.  And like the second
+law of thermodynamics, they are one-way processes, you can't
+unstir a rabbit hole, once you have entered.  A TL;DR is the
+entrance to a rabbit hole which helps you decide if you wish
+to tumble down into or not.  An option poor Alice was never
+afforded.
+
+** TL;DR
+
+The term /TL;DR/ (ca 2013) is a common Internet
+abbrieviation for "too long; didn't read" to explain that
+the author did not read the entire text referenced because
+it was too long.  But it has also come to mean a summary to
+provide context for an post or article for those who don't
+intend to read the article refered to.  It is sometimes
+inferred that the refered article is not only too long but
+needlessly too long and that a summary provides sufficient
+information so that there is no need to read the referenced
+item.
+
+It's an interesting concept, because it is simular to, but
+not the same as the older established terms "executive
+summary", "synopsis" or occasionally "scope note" which are
+themselves all slightly different as well.
+
+We have appropriated the term as a term for /Chenla TL;DRs/
+which provide a jumping off point for understanding an idea,
+work, proposal, design or process and then providing
+doorways (links) that allow the reader to dig deeper into
+the subject, or not.  A TL;DR is meant to stand on its own,
+as a brief definition, introduction or summary, but they are
+also meant to entice readers to explore further.
+
+In a very real sense -- the Chenla Institute's primary
+activity is creating entrances to a myriad of rhizomatic
+rabbit holes that taken together comprise the knowledge to
+build and maintain a distributed technological civilization.
+
+Chenla TL;DRs will be publish digitally as they are
+completed and collected together into an annual volume that
+will be printed as a physical dead tree book which acts as
+both snapshot and physical artifact.
+
+Any TL;DR may or may not be followed up by and expanded as
+in-depth proposals, narratives, research, code, designs
+etc. but the TL;DR will remain as the portal to all other
+work.
+
+
+In summary, Chenla TL;DRs are:
+
+  - *stubs* that frame an idea or project that provide enough
+    information to get the base idea as well as enough to
+    information to get started and learn more.
+  - *nested* - any part of a TL;DR may fork as an
+    independent TL;DR at some time in the future.  For
+    exmple, this section is (at this stage) a preface, but
+    it will be expanded and released as it's own TL;DR in
+    the future.
+  - *overlap* -- TL;DRs are /not/ meant to be mutually
+    exclusive, they embrace contradiction, duality and
+    complexity so are more /messy/ than /cannonical/.
+    Cannonical references and works will be defined using
+    other mechanisms -- further down different rabbit holes.
+  - *immutable* - each TL;DR has its own immutable namespace
+    so that the TL;DR as a concept is immutable, but the
+    expressions, manifestations and instances of the TL;DR
+    are mutable over time.  The reader will always be able
+    to find the latest version of a TL;DR via this immutable
+    namespace.
