@@ -58,12 +58,16 @@ Recent change activity on http://github.com/chenla/tldr
  - Blockchain (tl;dr)
  - Cryptocurrencies (tl;dr)
  - Version Control (tl;dr)
+   - Git (tl;dr)
  - Merkle Chains (tl;dr)
  - Directed Graphs (tl;dr)
  - Graph Databases (tl;dr)
- - Literate Computing (tl;dr series)
+ - Reproducible Research (tl;dr series)
+   - Literate Computing (tl;dr series)
+     - Org Babel (tl;dr)
+     - Jupyter (tl;dr)
    - Literate Programs (tl;dr)
-   - Literate Versin Control (tl;dr)
+   - Literate Version Control (tl;dr)
    - Literate Devops (tl;dr)
    - Literate Colophon (tl;dr)
  - BMF Entities (tl;dr)
@@ -71,6 +75,12 @@ Recent change activity on http://github.com/chenla/tldr
  - Fnords (tl;dr)
  - Maps (tl;dr)
  - Sneakernet of Things (tl;dr)
+ - Emacs (tl;dr)
+ - Org Mode (tl;dr)
+ - Anthroexternalization (tl;dr series)
+   - Externalized Cognition (tl;dr)
+   - Externalized Memory (tl;dr)
+   - Externalized Muscle (tl;dr) 
  - Duck Tests (tl;dr)
  - Process Guilds (tl;dr)
  - Identity Model (tl;dr series)
@@ -78,6 +88,7 @@ Recent change activity on http://github.com/chenla/tldr
    - Horcruxes (tl;dr)
  - Containerized Processes (tl;dr)
  - Structures (tl;dr series)
+   - Legibility (tl;dr)
    - Map-Territory (tl-dr)
    - Holons (tl;dr)
  - Document Structures (tl;dr series)
@@ -87,5 +98,12 @@ Recent change activity on http://github.com/chenla/tldr
  - Saltmine Platform (tl;dr)
  - The Yellow Brick Road (tl;dr series)
    - Revolutionary Cycles (tl;dr)
-
+ - People of Interest (tl;dr)
+   - Douglas Engelbart (tl;dr)
+   - Paolo Solari (tl;dr)
+   - Christopher Alexander (tl;dr)
+    
+* Patterns
+  
+  Are these the same as tl;drs?
 
