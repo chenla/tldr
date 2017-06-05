@@ -1,0 +1,41 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: 
+#+STARTUP: showall
+#+PROPERTY: filename
+#+INCLUDE: ./inc/head.org
+#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/tldr/index.org
+  :Created:   2017-06-05T16:56@Prek Leap (11.642600N-104.919210W)
+  :ID:        163b3141-5a0b-4ed6-adbe-e213a165326a
+  :VER:       549928655.188695796
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:HXU0-4636
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* About these pages
+
+#+begin_quote
+All Chenla TL;DRs.
+#+end_quote
+
+* Recent Activity
+
+Recent change activity on http://github.com/chenla/tldr
+
+
+* Table of Contents
+
+
