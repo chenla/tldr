@@ -82,14 +82,19 @@ Recent change activity on http://github.com/chenla/tldr
    - Externalized Memory (tl;dr)
    - Externalized Muscle (tl;dr) 
  - Duck Tests (tl;dr)
+ - Cascading Rulesets (tl;dr)
  - Process Guilds (tl;dr)
  - Identity Model (tl;dr series)
    - Roles (tl;dr)
    - Horcruxes (tl;dr)
  - Containerized Processes (tl;dr)
+ - Virtual Machines (tl;dr)
+ - Turing Machines (tl;dr)
+ - Entropy (tl;dr)
+ - Process Philosophy (tl;dr)
  - Structures (tl;dr series)
    - Legibility (tl;dr)
-   - Map-Territory (tl-dr)
+   - Map-Territory (tl;dr)
    - Holons (tl;dr)
  - Document Structures (tl;dr series)
    - Scrolls (tl;dr)
@@ -98,12 +103,24 @@ Recent change activity on http://github.com/chenla/tldr
  - Saltmine Platform (tl;dr)
  - The Yellow Brick Road (tl;dr series)
    - Revolutionary Cycles (tl;dr)
+   - Peak Population (tl;dr)
+   - 
  - People of Interest (tl;dr)
    - Douglas Engelbart (tl;dr)
    - Paolo Solari (tl;dr)
    - Christopher Alexander (tl;dr)
-    
+   - Epicurus (tl;dr)
+ - Collapse (tl;dr series)
+   - Temporary Insanity (tl;dr)
+   - Accident (tl;dr)
+   - Benign Neglect (tl;dr)
+   - Acts of God (tl;dr)
+ - Antifragile (tl;dr)
+ - Unix Philosophy (tl;dr)
+ - Hypertext (tl;dr)
+ - Graceful Degradation (tl;dr)   
 * Patterns
   
   Are these the same as tl;drs?
 
+* Tools
