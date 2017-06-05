@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chenla TL:DR (meta)
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/tldr/tldr/tldr-tldr.org
+  :Created:   2017-06-05T16:59@Prek Leap (11.642600N-104.919210W)
+  :ID:        bb243808-f4e5-43a3-a510-a94d12ab2293
+  :VER:       549928860.804618548
+  :GEO:       48P-491193-1287029-15
+  :BXID:      tldr:AKE8-1644
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
