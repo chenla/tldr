@@ -42,11 +42,50 @@ Recent change activity on http://github.com/chenla/tldr
 
 - [[./tldr-title-page.org][Title Page]]
 
-** Volumes
-
 ** TL;DRs
 
  - [[./tldr/tldr-tldr.org][Chenla TL;DR (meta)]]
- - Chenla Bluebook
- - Scopic Press
- - Chenla d9d Services
+ - Chenla Institute Bluebook (tl;dr series)
+   - Chenla Scopic Press (tl;dr)
+   - Center for Distributed Civilization (tl;dr)
+   - b>i Research Group (tl;dr)
+   - Research Themes 2017 (tl;dr)
+   - Chenla d9d Services (tl;dr)
+   - PrekLeap Campus Proposal (tl;dr)
+ - Scopic Press (tl;dr)
+ - Primer (tl;dr)
+ - IPFS (tl;dr)
+ - Blockchain (tl;dr)
+ - Cryptocurrencies (tl;dr)
+ - Version Control (tl;dr)
+ - Merkle Chains (tl;dr)
+ - Directed Graphs (tl;dr)
+ - Graph Databases (tl;dr)
+ - Literate Computing (tl;dr series)
+   - Literate Programs (tl;dr)
+   - Literate Versin Control (tl;dr)
+   - Literate Devops (tl;dr)
+   - Literate Colophon (tl;dr)
+ - BMF Entities (tl;dr)
+ - Hoards (tl;dr)
+ - Fnords (tl;dr)
+ - Maps (tl;dr)
+ - Sneakernet of Things (tl;dr)
+ - Duck Tests (tl;dr)
+ - Process Guilds (tl;dr)
+ - Identity Model (tl;dr series)
+   - Roles (tl;dr)
+   - Horcruxes (tl;dr)
+ - Containerized Processes (tl;dr)
+ - Structures (tl;dr series)
+   - Map-Territory (tl-dr)
+   - Holons (tl;dr)
+ - Document Structures (tl;dr series)
+   - Scrolls (tl;dr)
+   - Codex (tl;dr)
+ - EPUB3 (tl;dr)
+ - Saltmine Platform (tl;dr)
+ - The Yellow Brick Road (tl;dr series)
+   - Revolutionary Cycles (tl;dr)
+
+
