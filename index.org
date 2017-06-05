@@ -38,4 +38,5 @@ Recent change activity on http://github.com/chenla/tldr
 
 * Table of Contents
 
+ - [[./tldr/tldr-tldr.org][Chenla TL;DR (meta)]]
 
