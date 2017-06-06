@@ -50,7 +50,7 @@ Recent change activity on http://github.com/chenla/tldr
    - Center for Distributed Civilization (tl;dr)
    - b>i Research Group (tl;dr)
    - Research Themes 2017 (tl;dr)
-   - Chenla d9d Services (tl;dr)
+   - d9d Services (tl;dr)
    - PrekLeap Campus Proposal (tl;dr)
  - Scopic Press (tl;dr)
  - Primer (tl;dr)

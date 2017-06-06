@@ -132,3 +132,18 @@ the shelves as she passed...
 
 -- Lewis Carrol, Alice's Adventures in Wonderland
 #+end_quote
+
+
+
+* ---------- 
+
+gateway   :: tl;dr | pattern | tool
+             work | exec | blob  
+             burr | duck | 
+
+
+standard  :: tspace > bramble > bur
+
+deploy    :: container > horcrux
+
+transport :: hoard | epub.d/3
