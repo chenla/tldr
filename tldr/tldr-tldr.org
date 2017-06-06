@@ -138,11 +138,7 @@ the shelves as she passed...
 * ---------
 
 
-standard  :: tspace > bramble > bur
 
-deploy    :: container > horcrux
-
-transport :: hoard | epub.d/3
 
 * Horcruxes
 
@@ -160,6 +156,10 @@ same horcrux doing different things in different places.
 From time to time these are syncronized by saving the delta
 between horcrux instances into a new instance and then
 deleting the older instance.
+
+ - standard  :: tspace > bramble > bur
+ - deploy    :: container > horcrux
+ - transport :: hoard | epub.d/3
 
 
 * Horcrux & Hoard Content Types
