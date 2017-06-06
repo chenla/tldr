@@ -170,13 +170,14 @@ transport :: hoard | epub.d/3
 
   - mimetype
   - source files :: org or md
+  - annoations :: annotate.org/annotate.md -> export to annotations.json
   - datafiles :: tabular data
   - css :: cascading style sheet
   - crs :: cascading ruleset of ducktests
   - colophon :: literate build file
   - graph :: property graph index of contents
   - keys :: public keys, if any
-  - hash :: hashes and checksums
+  - hash :: hashes and checksums (sections for file/ipfs etc)
 
 
 
@@ -200,3 +201,10 @@ cf88430390b98416d1fb415baa494dce *08. Allow Your Mind To Wander.mp3
   | Hoard     | .hoard           | Content source package format        |
   | Package   | .pkg             | Linux application package format     |
   | Container | .dockerfile/.rkt | Containerized process package format |
+
+
+* Open Annotation Format
+
+Epub requires to be in JSON format
+
+  - [[http://www.idpf.org/epub/oa/][Open Annotation in EPUB]] | IDPF
