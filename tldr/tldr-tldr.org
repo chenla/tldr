@@ -138,7 +138,7 @@ the shelves as she passed...
 
 * ---------- 
 
-rabbithole :: tl;dr | pattern | tool
+
 
 
 
@@ -151,6 +151,19 @@ standard  :: tspace > bramble > bur
 deploy    :: container > horcrux
 
 transport :: hoard | epub.d/3
+
+
+* Rabbithole Types
+
+  - tl;dr     :: subject, proposal, concept
+  - pattern   :: pattern in a pattern language
+  - tool      :: type or class of tool or machine
+  - stuff     :: physical object or material substance
+  - bio       :: named person or thing
+  - chrono    :: event, era, age, epoch etc
+  - geo       :: location in time or space
+  - process   :: proscriptive -- recipe or process 
+  - structure :: natural feature or built structure
 
 
 *  Package Formats
