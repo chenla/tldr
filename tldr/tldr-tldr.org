@@ -153,7 +153,7 @@ deploy    :: container > horcrux
 transport :: hoard | epub.d/3
 
 
-* Rabbithole Types
+* Rabbithole Types 
 
   - tl;dr     :: subject, proposal, concept
   - pattern   :: pattern in a pattern language
@@ -164,6 +164,25 @@ transport :: hoard | epub.d/3
   - geo       :: location in time or space
   - process   :: proscriptive -- recipe or process 
   - structure :: natural feature or built structure
+
+
+* Hoard Package Manifest
+
+  - mimetype
+  - source files :: org or md
+  - datafiles :: tabular data
+  - css :: cascading style sheet
+  - crs :: cascading ruleset of ducktests
+  - colophon :: literate build file
+  - graph :: property graph index of contents
+  - keys :: public keys, if any
+  - hash :: hashes and checksums
+
+
+
+#+begin_example
+cf88430390b98416d1fb415baa494dce *08. Allow Your Mind To Wander.mp3
+#+end_example
 
 
 *  Package Formats
