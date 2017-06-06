@@ -262,3 +262,10 @@ cf88430390b98416d1fb415baa494dce *08. Allow Your Mind To Wander.mp3
 Epub requires to be in JSON format
 
   - [[http://www.idpf.org/epub/oa/][Open Annotation in EPUB]] | IDPF
+
+I want to be able to use wiki source files as well as json
+-- but this to work, we MUST be able to roundtrip between
+the two formats -- this means that whitespace is ignored for
+glosses and commentary.  Scholia are wiki source files in
+their own right -- but point to block level or inline
+content in other files.  Software will generate links.
