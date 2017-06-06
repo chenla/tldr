@@ -168,17 +168,34 @@ transport :: hoard | epub.d/3
 
 * Hoard Package Manifest
 
-  - mimetype
   - source files :: org or md
-  - annoations :: annotate.org/annotate.md -> export to annotations.json
+  - annotations :: annotate.org/annotate.md -> export to annotations.json
   - datafiles :: tabular data
-  - css :: cascading style sheet
-  - crs :: cascading ruleset of ducktests
+  - css/*.css :: cascading style sheet files
+  - crs/*.crs :: cascading ruleset of ducktests
   - colophon :: literate build file
-  - graph :: property graph index of contents
-  - keys :: public keys, if any
-  - hash :: hashes and checksums (sections for file/ipfs etc)
+  - idx/graph :: property graph index of contents
+  - media/*.png|mp4|svg :: images, videos & vectors
+  - meta/mimetype :: declare mimetype for hoard package
+  - meta/keys :: public keys, if any
+  - meta/hash :: hashes and checksums (sections for file/ipfs etc)
 
+* Media Hoard Manifest
+
+Media hoards are packages that contain original lossless
+formats of media.
+
+You can include application specific formats -- but if you
+do you *MUST* include an version in an open lossless
+archival format.
+
+  - export   :: list of formats and resolutions export to
+  - build    :: build file for converting files
+  - metadata :: associated metadata descriptions
+
+This is sort of like Wikipedia's MediaWiki where each image
+and media file has their own page dedicated to describing it
+and provide conversions to different formats and resolutions.
 
 
 * Hashes & Checksums
