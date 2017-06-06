@@ -91,28 +91,29 @@ in-depth proposals, narratives, research, code, designs
 etc. but the TL;DR will remain as the portal to all other
 work.
 
+* Fuctional Requirements 
 
-In summary, Chenla TL;DRs are:
 
-  - *stubs* that frame an idea or project that provide enough
-    information to get the base idea as well as enough to
-    information to get started and learn more.
-  - *nested* - any part of a TL;DR may fork as an
-    independent TL;DR at some time in the future.  For
-    exmple, this section is (at this stage) a preface, but
-    it will be expanded and released as it's own TL;DR in
-    the future.
-  - *overlap* -- TL;DRs are /not/ meant to be mutually
-    exclusive, they embrace contradiction, duality and
-    complexity so are more /messy/ than /cannonical/.
-    Cannonical references and works will be defined using
-    other mechanisms -- further down different rabbit holes.
-  - *immutable* - each TL;DR has its own immutable namespace
-    so that the TL;DR as a concept is immutable, but the
-    expressions, manifestations and instances of the TL;DR
-    are mutable over time.  The reader will always be able
-    to find the latest version of a TL;DR via this immutable
-    namespace.
+*stubs* that frame an idea or project that provide enough
+information to get the base idea as well as enough to
+information to get started and learn more.
+
+*nested* - any part of a TL;DR may fork as an independent
+TL;DR at some time in the future.  For exmple, this section
+is (at this stage) a preface, but it will be expanded and
+released as it's own TL;DR in the future.
+
+*overlap* -- TL;DRs are /not/ meant to be mutually
+exclusive, they embrace contradiction, duality and
+complexity so are more /messy/ than /cannonical/.
+Cannonical references and works will be defined using other
+mechanisms -- further down different rabbit holes.
+
+*immutable* - each TL;DR has its own immutable namespace so
+that the TL;DR as a concept is immutable, but the
+expressions, manifestations and instances of the TL;DR are
+mutable over time.  The reader will always be able to find
+the latest version of a TL;DR via this immutable namespace.
 
 * Alice Falling
 
@@ -137,7 +138,10 @@ the shelves as she passed...
 
 * ---------- 
 
-gateway   :: tl;dr | pattern | tool
+rabbithole :: tl;dr | pattern | tool
+
+
+
              work | exec | blob  
              burr | duck | 
 
