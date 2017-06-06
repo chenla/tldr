@@ -192,6 +192,12 @@ that they are basically all content /hoard/ packages.
   - process   :: proscriptive -- recipe or process 
   - structure :: natural feature or built structure
 
+* Hoards
+
+A hoard is a collection of source content that is either
+bundled with a running containerized process, or as a tar
+file (sans the container) that can be used for transport and
+archiving.
 
 * Hoard Components
 
@@ -211,6 +217,7 @@ provide different functions:
  - Media      :: rendered end-user media files -- source
                  files are maintained in their own
                  media-hoard packages.
+ - Fonts      :: ttf font files
  - Annotation :: local or shared commentary, glosses and scholia
 
 
