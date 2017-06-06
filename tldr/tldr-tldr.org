@@ -28,7 +28,7 @@ I wish to go back in time, and read /Naked On My Goat/
 before it's incineration.
 #+end_quote
 
-#+begin_quote
+#+begin_verse
    Powder like a petticoat
    On an old, grey witch you’ll see,
    While I sit naked on my goat,
@@ -36,7 +36,7 @@ before it's incineration.
 
 -- Goethe's /Faust/  line 4285
    [[http://www.poetryintranslation.com/PITBR/German/FaustIScenesXVItoXXV.htm][Faust, Part I: Scenes XVI to XXV]]
-#+end_quote
+#+end_verse
 
 
 * Introduction
