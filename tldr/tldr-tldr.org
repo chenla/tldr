@@ -135,16 +135,7 @@ the shelves as she passed...
 -- Lewis Carrol, Alice's Adventures in Wonderland
 #+end_quote
 
-
-
-* ---------- 
-
-
-
-
-
-             work | exec | blob  
-             burr | duck | 
+* ---------
 
 
 standard  :: tspace > bramble > bur
@@ -153,6 +144,35 @@ deploy    :: container > horcrux
 
 transport :: hoard | epub.d/3
 
+* Horcruxes
+
+A horcrux is a shard of an identity.  Identities are
+concepts that represent a collection of content and roles
+that are externalized content, memory and cognition
+belonging to a person, collective body, or process.
+
+Horcruxes are made up of multiple hoards that have been
+woven together to create a single semi-autonomous directed
+graph that constitute a /world model/.
+
+Horcruxes are distributed -- with different copies of the
+same horcrux doing different things in different places.
+From time to time these are syncronized by saving the delta
+between horcrux instances into a new instance and then
+deleting the older instance.
+
+
+* Horcrux & Hoard Content Types
+
+ - work  :: literate source 
+ - data  :: tabular data
+ - graph ::
+ - build ::
+ - blob  :: binary large object
+ - burr  :: record
+ - rule  ::  
+
+
 
 * Rabbit Holes
 
@@ -160,7 +180,7 @@ The differences are semantic -- there is a different layout
 and types of information for each type -- but other than
 that they are basically all content /hoard/ packages.
 
-* Rabbithole Types 
+* Rabbithole Format Types 
 
   - tl;dr     :: subject, proposal, concept
   - pattern   :: pattern in a pattern language
