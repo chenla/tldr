@@ -35,6 +35,7 @@ unstir a rabbit hole, once you have entered.  A TL;DR is the
 entrance to a rabbit hole which helps you decide if you wish
 to tumble down into or not.  An option poor Alice was never
 afforded.
+
 * Acknowledgements
 
 I would like to thank the support and facilties provided by
@@ -152,6 +153,12 @@ deploy    :: container > horcrux
 
 transport :: hoard | epub.d/3
 
+
+* Rabbit Holes
+
+The differences are semantic -- there is a different layout
+and types of information for each type -- but other than
+that they are basically all content /hoard/ packages.
 
 * Rabbithole Types 
 
