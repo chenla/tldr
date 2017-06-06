@@ -181,6 +181,15 @@ transport :: hoard | epub.d/3
 
 
 
+* Hashes & Checksums
+
+break into sections:
+
+  - content hashes
+  - ipfs hashes
+  - ipns hashes
+
+
 #+begin_example
 cf88430390b98416d1fb415baa494dce *08. Allow Your Mind To Wander.mp3
 #+end_example
