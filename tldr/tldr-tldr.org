@@ -151,3 +151,20 @@ standard  :: tspace > bramble > bur
 deploy    :: container > horcrux
 
 transport :: hoard | epub.d/3
+
+
+*  Package Formats
+
+  | Rendered/Published end user content (html,epub,pdf etc) |
+  | Source File Packages                                    |
+  | Application Packages & Running Code                     |
+  | Container                                               |
+  | Operating System                                        |
+
+
+  | Type      | ext              |                                      |
+  |-----------+------------------+--------------------------------------|
+  | Epub      | .epub3/.epubd    | Portable publishing package format   |
+  | Hoard     | .hoard           | Content source package format        |
+  | Package   | .pkg             | Linux application package format     |
+  | Container | .dockerfile/.rkt | Containerized process package format |
