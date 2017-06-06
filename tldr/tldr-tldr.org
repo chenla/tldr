@@ -173,6 +173,27 @@ that they are basically all content /hoard/ packages.
   - structure :: natural feature or built structure
 
 
+* Hoard Components
+
+Each hoard breaks down into a number of different parts that
+provide different functions:
+
+ - Source  :: human readable source file formats (xml and
+              html are not)
+ - Build   :: processing and build files -- takes source and
+              applies rules to generate rendered formats and
+              graph index.
+ - Format  :: style sheets for rendered output
+ - Index   :: graph index for source files and annotations
+              (key-value & keyword) that can be woven into
+              horcrux db
+ - Version :: version control -- which at the moment is git
+ - Media      :: rendered end-user media files -- source
+                 files are maintained in their own
+                 media-hoard packages.
+ - Annotation :: local or shared commentary, glosses and scholia
+
+
 * Hoard Package Manifest
 
   - source files :: org or md
@@ -180,7 +201,7 @@ that they are basically all content /hoard/ packages.
   - datafiles :: tabular data
   - css/*.css :: cascading style sheet files
   - crs/*.crs :: cascading ruleset of ducktests
-  - colophon :: literate build file
+  - colophon :: literate toolchain -- build file
   - idx/graph :: property graph index of contents
   - media/*.png|mp4|svg :: images, videos & vectors
   - meta/mimetype :: declare mimetype for hoard package
