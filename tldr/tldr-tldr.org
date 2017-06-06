@@ -23,6 +23,22 @@
 
 #+TOC: headlines 4
 
+#+begin_quote
+I wish to go back in time, and read /Naked On My Goat/
+before it's incineration.
+#+end_quote
+
+#+begin_quote
+   Powder like a petticoat
+   On an old, grey witch you’ll see,
+   While I sit naked on my goat,
+   And show a fine young body.
+
+-- Goethe's /Faust/  line 4285
+   [[http://www.poetryintranslation.com/PITBR/German/FaustIScenesXVItoXXV.htm][Faust, Part I: Scenes XVI to XXV]]
+#+end_quote
+
+
 * Introduction
 
 This is the TL;DR for Chenla TL;DRs.
@@ -39,7 +55,7 @@ afforded.
 * Acknowledgements
 
 I would like to thank the support and facilties provided by
-Prek Leap National College of Agriculture.  Without their
+/Prek Leap National College of Agriculture/.  Without their
 help this work would not be possible.
 
 I would also like to posthumously thank Hume Henderson for
