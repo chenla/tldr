@@ -199,6 +199,26 @@ bundled with a running containerized process, or as a tar
 file (sans the container) that can be used for transport and
 archiving.
 
+As a running process, a hoard does conversion into rendered
+human consumable formats, and indexes that become part of
+graph databases.
+
+Running hoards (no pun intended) are also responsible for
+maintaining copies of themselves through ipfs -- ipfs does
+not ensure that copies are maintained, any more than
+bit-torrent does.  So a running hoard watches that there are
+always x number of copies being archived and x number
+running at all times.
+
+We will need a consensus mechanism for shutting down a
+running hoard -- perhaps each maintains a active number that
+represents how often it is being accessed -- if 10 running
+copies are supposed to be maintained, and there are more
+than 10 copies running -- each copy will pole the others to
+see who has the lowest activity and delete themselves until
+they are back to 10.  Higher activity raises the number
+being maintained.
+
 * Hoard Components
 
 Each hoard breaks down into a number of different parts that
