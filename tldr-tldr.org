@@ -1,0 +1,385 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chenla TL:DR (meta)
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/tldr/tldr/tldr-tldr.org
+  :Created:   2017-06-05T16:59@Prek Leap (11.642600N-104.919210W)
+  :ID:        bb243808-f4e5-43a3-a510-a94d12ab2293
+  :VER:       549928860.804618548
+  :GEO:       48P-491193-1287029-15
+  :BXID:      tldr:AKE8-1644
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+#+begin_quote
+
+Bishop came to some hours later, his cheek slick with drool,
+his eyes slowly focusing to take in his surroundings, to
+find Mola sitting crosslegged on the floor of the doorway
+looking out onto the damp street, smoking something godawful
+noxious which is probably what had roused him.  She turned
+her head slightly, noticing Bishop was awake, her black
+bobbed hair swinging slightly with the movement.
+
+  "I wish to go back in time, and read /Naked On My Goat/
+before she incinerated it," she said taking a long drag and
+exhaling through her nose and mouth.
+
+  "What the fuck, are you talking about?" Bishop said, not
+being in any mood for ambigious poetic references before
+happy hour.
+
+  "Louise Brooks," she said looking at a people, looking
+miserable, as they hurried past in the drizzle. "It was
+something my mother told me when I was a kid on Jushrut."
+
+   "She got that past the port gods?" he said, thinking, "On
+Jushrut?  I thought they were all fucking holier than thou
+shit..."  Bishop couldn't see, but he knew she was smiling,
+at least wistfully. "Naked on a goat..." he mumbled to
+himself with the wrong intonation, triggering the door god,
+who chimed in, in a charming woman's contralto voice,
+
+   "Powder like a petticoat
+    On an old, grey witch you’ll see,
+    While I sit naked on my goat,
+    And show a fine young body."
+
+   "No one asked you," he said pissed at the transom,
+"You're just encouraging her."  He waited for a moment to
+ensure Mola and the door had gone back into their respective
+reveries, let out a huff, stifled a snort and rolled back
+over on the sofa, pulling the rough threadbare wool blanket
+around him against the damp chill and shut his eyes,
+determined to slip back into unconsciousness for a couple of
+hours before the pubs opened, half remembering, briefly that
+back in the day, he'd been in a bar called /The Naked Goat/,
+somewhere washward in the Sark, where -- the memory coming
+unbidden -- each spring, the interior was painted with Ox
+blood, or the equivilent blood of whatever local megafuana
+they had there.  That metallic smell, tainting the beer like
+a pewter mug, hung in the air for more than a month.  It
+/was/ his memory, he was /sure/ of it.  That taste lingered,
+just within consciousness as he drifted back to sleep.
+
+----
+
+It is thought that there were no less than twenty eight
+different door gods scattered throughout Wongsha metro in
+the '920s.  Some had been brought from the San Zi by Joss
+immigrants when the lower galleries were still open, and you
+could still see the occasional Soobish Gray ship in the old
+bath stop, bobbing in their berths. Other gods had started
+out as military surplus instances by navies who installed
+their own door gods on pubs frequented by their conscripts
+on shore-leave, were left to fend for themselves, their
+deltas forever cut off and lost to their godhead.
+
+
+
+* Introduction
+
+This is the TL;DR for Chenla TL;DRs.
+
+* Cover Note
+
+Chenla TL;DRs are cautonary gateways.  And like the second
+law of thermodynamics, they are one-way processes, you can't
+unstir a rabbit hole, once you have entered.  A TL;DR is the
+entrance to a rabbit hole which helps you decide if you wish
+to tumble down into or not.  An option poor Alice was never
+afforded.
+
+* Acknowledgements
+
+I would like to thank the support and facilties provided by
+/Prek Leap National College of Agriculture/.  Without their
+help this work would not be possible.
+
+I would also like to posthumously thank Hume Henderson for
+our flapper-era Alice from the Roaring Twenties.  In the
+day, his Alice, with her Louise Brooks bobbed hair, would
+have been considered stylish indeed.  You can see all of his
+illustrations for /Alice's Adventures in Wonderland/ at the
+University of Florida Digital Collections:
+     
+    http://ufdc.ufl.edu/UF00076830/00001
+
+
+* TL;DR
+
+The term /TL;DR/ (ca 2013) is a common Internet
+abbrieviation for "too long; didn't read" to explain that
+the author did not read the entire text referenced because
+it was too long.  But it has also come to mean a summary to
+provide context for an post or article for those who don't
+intend to read the article refered to.  It is sometimes
+inferred that the refered article is not only too long but
+needlessly too long and that a summary provides sufficient
+information so that there is no need to read the referenced
+item.
+
+It's an interesting concept, because it is simular to, but
+not the same as the older established terms "executive
+summary", "synopsis" or occasionally "scope note" which are
+themselves all slightly different as well.
+
+We have appropriated the term as a term for /Chenla TL;DRs/
+which provide a jumping off point for understanding an idea,
+work, proposal, design or process and then providing
+doorways (links) that allow the reader to dig deeper into
+the subject, or not.  A TL;DR is meant to stand on its own,
+as a brief definition, introduction or summary, but they are
+also meant to entice readers to explore further.
+
+In a very real sense -- the Chenla Institute's primary
+activity is creating entrances to a myriad of rhizomatic
+rabbit holes that taken together comprise the knowledge to
+build and maintain a distributed technological civilization.
+
+Chenla TL;DRs will be publish digitally as they are
+completed and collected together into an annual volume that
+will be printed as a physical dead tree book which acts as
+both snapshot and physical artifact.
+
+Any TL;DR may or may not be followed up by and expanded as
+in-depth proposals, narratives, research, code, designs
+etc. but the TL;DR will remain as the portal to all other
+work.
+
+* Fuctional Requirements 
+
+
+*stubs* that frame an idea or project that provide enough
+information to get the base idea as well as enough to
+information to get started and learn more.
+
+*nested* - any part of a TL;DR may fork as an independent
+TL;DR at some time in the future.  For exmple, this section
+is (at this stage) a preface, but it will be expanded and
+released as it's own TL;DR in the future.
+
+*overlap* -- TL;DRs are /not/ meant to be mutually
+exclusive, they embrace contradiction, duality and
+complexity so are more /messy/ than /cannonical/.
+Cannonical references and works will be defined using other
+mechanisms -- further down different rabbit holes.
+
+*immutable* - each TL;DR has its own immutable namespace so
+that the TL;DR as a concept is immutable, but the
+expressions, manifestations and instances of the TL;DR are
+mutable over time.  The reader will always be able to find
+the latest version of a TL;DR via this immutable namespace.
+
+* Alice Falling
+
+
+              [  image of alice falling ]
+
+#+begin_quote
+Either the well was very deep, or she fell very slowly, for
+she had plenty of time as she went down to look about her,
+and to wonder what was going to happen next.  First, she
+tried to look down and make out what she was coming to, but
+it was too dark to see anything: then she looked at the
+sides of the well, and noticed that they were filled with
+cupboards and book-shelves: here and there she saw maps and
+pictures hung upon pegs. She took down a jar from one of
+the shelves as she passed...
+
+-- Lewis Carrol, Alice's Adventures in Wonderland
+#+end_quote
+
+* ---------
+
+
+
+
+* Horcruxes
+
+A horcrux is a shard of an identity.  Identities are
+concepts that represent a collection of content and roles
+that are externalized content, memory and cognition
+belonging to a person, collective body, or process.
+
+Horcruxes are made up of multiple hoards that have been
+woven together to create a single semi-autonomous directed
+graph that constitute a /world model/.
+
+Horcruxes are distributed -- with different copies of the
+same horcrux doing different things in different places.
+From time to time these are syncronized by saving the delta
+between horcrux instances into a new instance and then
+deleting the older instance.
+
+ - standard  :: tspace > bramble > bur
+ - deploy    :: container > horcrux
+ - transport :: hoard | epub.d/3
+
+
+* Horcrux & Hoard Content Types
+
+ - work  :: literate source 
+ - data  :: tabular data
+ - graph ::
+ - build ::
+ - blob  :: binary large object
+ - burr  :: record
+ - rule  ::  
+
+
+
+* Rabbit Holes
+
+The differences are semantic -- there is a different layout
+and types of information for each type -- but other than
+that they are basically all content /hoard/ packages.
+
+* Rabbithole Format Types 
+
+  - tl;dr     :: subject, proposal, concept
+  - pattern   :: pattern in a pattern language
+  - tool      :: type or class of tool or machine
+  - stuff     :: physical object or material substance
+  - bio       :: named person or thing
+  - chrono    :: event, era, age, epoch etc
+  - geo       :: location in time or space
+  - process   :: proscriptive -- recipe or process 
+  - structure :: natural feature or built structure
+
+* Hoards
+
+A hoard is a collection of source content that is either
+bundled with a running containerized process, or as a tar
+file (sans the container) that can be used for transport and
+archiving.
+
+As a running process, a hoard does conversion into rendered
+human consumable formats, and indexes that become part of
+graph databases.
+
+Running hoards (no pun intended) are also responsible for
+maintaining copies of themselves through ipfs -- ipfs does
+not ensure that copies are maintained, any more than
+bit-torrent does.  So a running hoard watches that there are
+always x number of copies being archived and x number
+running at all times.
+
+We will need a consensus mechanism for shutting down a
+running hoard -- perhaps each maintains a active number that
+represents how often it is being accessed -- if 10 running
+copies are supposed to be maintained, and there are more
+than 10 copies running -- each copy will pole the others to
+see who has the lowest activity and delete themselves until
+they are back to 10.  Higher activity raises the number
+being maintained.
+
+* Hoard Components
+
+Each hoard breaks down into a number of different parts that
+provide different functions:
+
+ - Source  :: human readable source file formats (xml and
+              html are not)
+ - Build   :: processing and build files -- takes source and
+              applies rules to generate rendered formats and
+              graph index.
+ - Format  :: style sheets for rendered output
+ - Index   :: graph index for source files and annotations
+              (key-value & keyword) that can be woven into
+              horcrux db
+ - Version :: version control -- which at the moment is git
+ - Media      :: rendered end-user media files -- source
+                 files are maintained in their own
+                 media-hoard packages.
+ - Fonts      :: ttf font files
+ - Annotation :: local or shared commentary, glosses and scholia
+
+
+* Hoard Package Manifest
+
+  - source files :: org or md
+  - annotations :: annotate.org/annotate.md -> export to annotations.json
+  - datafiles :: tabular data
+  - css/*.css :: cascading style sheet files
+  - crs/*.crs :: cascading ruleset of ducktests
+  - colophon :: literate toolchain -- build file
+  - idx/graph :: property graph index of contents
+  - media/*.png|mp4|svg :: images, videos & vectors
+  - meta/mimetype :: declare mimetype for hoard package
+  - meta/keys :: public keys, if any
+  - meta/hash :: hashes and checksums (sections for file/ipfs etc)
+
+* Media Hoard Manifest
+
+Media hoards are packages that contain original lossless
+formats of media.
+
+You can include application specific formats -- but if you
+do you *MUST* include an version in an open lossless
+archival format.
+
+  - export   :: list of formats and resolutions export to
+  - build    :: build file for converting files
+  - metadata :: associated metadata descriptions
+
+This is sort of like Wikipedia's MediaWiki where each image
+and media file has their own page dedicated to describing it
+and provide conversions to different formats and resolutions.
+
+
+* Hashes & Checksums
+
+break into sections:
+
+  - content hashes
+  - ipfs hashes
+  - ipns hashes
+
+
+#+begin_example
+cf88430390b98416d1fb415baa494dce *08. Allow Your Mind To Wander.mp3
+#+end_example
+
+
+*  Package Formats
+
+  | Rendered/Published end user content (html,epub,pdf etc) |
+  | Source File Packages                                    |
+  | Application Packages & Running Code                     |
+  | Container                                               |
+  | Operating System                                        |
+
+
+  | Type      | ext              |                                      |
+  |-----------+------------------+--------------------------------------|
+  | Epub      | .epub3/.epubd    | Portable publishing package format   |
+  | Hoard     | .hoard           | Content source package format        |
+  | Package   | .pkg             | Linux application package format     |
+  | Container | .dockerfile/.rkt | Containerized process package format |
+
+
+* Open Annotation Format
+
+Epub requires to be in JSON format
+
+  - [[http://www.idpf.org/epub/oa/][Open Annotation in EPUB]] | IDPF
+
+I want to be able to use wiki source files as well as json
+-- but this to work, we MUST be able to roundtrip between
+the two formats -- this means that whitespace is ignored for
+glosses and commentary.  Scholia are wiki source files in
+their own right -- but point to block level or inline
+content in other files.  Software will generate links.
