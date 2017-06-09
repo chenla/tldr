@@ -146,24 +146,6 @@ the shelves as she passed...
 
 * Horcruxes
 
-A horcrux is a shard of an identity.  Identities are
-concepts that represent a collection of content and roles
-that are externalized content, memory and cognition
-belonging to a person, collective body, or process.
-
-Horcruxes are made up of multiple hoards that have been
-woven together to create a single semi-autonomous directed
-graph that constitute a /world model/.
-
-Horcruxes are distributed -- with different copies of the
-same horcrux doing different things in different places.
-From time to time these are syncronized by saving the delta
-between horcrux instances into a new instance and then
-deleting the older instance.
-
- - standard  :: tspace > bramble > bur
- - deploy    :: container > horcrux
- - transport :: hoard | epub.d/3
 
 
 * Horcrux & Hoard Content Types
