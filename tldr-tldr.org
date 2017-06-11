@@ -180,30 +180,7 @@ that they are basically all content /hoard/ packages.
 
 * Hoards
 
-A hoard is a collection of source content that is either
-bundled with a running containerized process, or as a tar
-file (sans the container) that can be used for transport and
-archiving.
 
-As a running process, a hoard does conversion into rendered
-human consumable formats, and indexes that become part of
-graph databases.
-
-Running hoards (no pun intended) are also responsible for
-maintaining copies of themselves through ipfs -- ipfs does
-not ensure that copies are maintained, any more than
-bit-torrent does.  So a running hoard watches that there are
-always x number of copies being archived and x number
-running at all times.
-
-We will need a consensus mechanism for shutting down a
-running hoard -- perhaps each maintains a active number that
-represents how often it is being accessed -- if 10 running
-copies are supposed to be maintained, and there are more
-than 10 copies running -- each copy will pole the others to
-see who has the lowest activity and delete themselves until
-they are back to 10.  Higher activity raises the number
-being maintained.
 
 * Hoard Components
 
@@ -227,36 +204,7 @@ provide different functions:
  - Annotation :: local or shared commentary, glosses and scholia
 
 
-* Hoard Package Manifest
 
-  - source files :: org or md
-  - annotations :: annotate.org/annotate.md -> export to annotations.json
-  - datafiles :: tabular data
-  - css/*.css :: cascading style sheet files
-  - crs/*.crs :: cascading ruleset of ducktests
-  - colophon :: literate toolchain -- build file
-  - idx/graph :: property graph index of contents
-  - media/*.png|mp4|svg :: images, videos & vectors
-  - meta/mimetype :: declare mimetype for hoard package
-  - meta/keys :: public keys, if any
-  - meta/hash :: hashes and checksums (sections for file/ipfs etc)
-
-* Media Hoard Manifest
-
-Media hoards are packages that contain original lossless
-formats of media.
-
-You can include application specific formats -- but if you
-do you *MUST* include an version in an open lossless
-archival format.
-
-  - export   :: list of formats and resolutions export to
-  - build    :: build file for converting files
-  - metadata :: associated metadata descriptions
-
-This is sort of like Wikipedia's MediaWiki where each image
-and media file has their own page dedicated to describing it
-and provide conversions to different formats and resolutions.
 
 
 * Hashes & Checksums
