@@ -142,7 +142,7 @@ the shelves as she passed...
 * ---------
 
 
-* Horcrux & Hoard Content Types
+* Saltmine Content Types
 
  - work  :: literate source 
  - data  :: tabular data
@@ -160,7 +160,7 @@ The differences are semantic -- there is a different layout
 and types of information for each type -- but other than
 that they are basically all content /hoard/ packages.
 
-* Rabbithole Format Types 
+* Rabbit Hole Format Types 
 
   - tl;dr     :: subject, proposal, concept
   - pattern   :: pattern in a pattern language
