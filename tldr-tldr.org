@@ -139,80 +139,9 @@ the shelves as she passed...
 -- Lewis Carrol, Alice's Adventures in Wonderland
 #+end_quote
 
-* ---------
-
-
-* Saltmine Content Types
-
- - work  :: literate source 
- - data  :: tabular data
- - graph ::
- - build ::
- - blob  :: binary large object
- - burr  :: record
- - rule  ::  
 
 
 
-* Rabbit Holes
-
-The differences are semantic -- there is a different layout
-and types of information for each type -- but other than
-that they are basically all content /hoard/ packages.
-
-* Rabbit Hole Format Types 
-
-  - tl;dr     :: subject, proposal, concept
-  - pattern   :: pattern in a pattern language
-  - tool      :: type or class of tool or machine
-  - stuff     :: physical object or material substance
-  - bio       :: named person or thing
-  - chrono    :: event, era, age, epoch etc
-  - geo       :: location in time or space
-  - process   :: proscriptive -- recipe or process 
-  - structure :: natural feature or built structure
 
 
-* Hashes & Checksums
 
-break into sections:
-
-  - content hashes
-  - ipfs hashes
-  - ipns hashes
-
-
-#+begin_example
-cf88430390b98416d1fb415baa494dce *08. Allow Your Mind To Wander.mp3
-#+end_example
-
-
-*  Package Formats
-
-  | Rendered/Published end user content (html,epub,pdf etc) |
-  | Source File Packages                                    |
-  | Application Packages & Running Code                     |
-  | Container                                               |
-  | Operating System                                        |
-
-
-  | Type      | ext              |                                      |
-  |-----------+------------------+--------------------------------------|
-  | Epub      | .epub3/.epubd    | Portable publishing package format   |
-  | Hoard     | .hoard           | Content source package format        |
-  | Package   | .pkg             | Linux application package format     |
-  | Container | .dockerfile/.rkt | Containerized process package format |
-
-
-* Open Annotation Format
-
-Epub requires to be in JSON format
-
-  - [[http://www.idpf.org/epub/oa/][Open Annotation in EPUB]] | IDPF
-
-I want to be able to use wiki source files as well as json
--- but this to work, we MUST be able to roundtrip between
-the two formats -- this means that whitespace is ignored for
-glosses and commentary.  Scholia are wiki source files in
-their own right -- but point to block level or inline
-content in other files.  Software will generate links.
