@@ -1,8 +1,24 @@
-* TL;DR, TL;DR
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+* TL;DR, TL;DR
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/tldr/tldr-tldr/README.org
+  :Created:   2017-06-22T11:14@Prek Leap (11.642600N-104.919210W)
+  :ID:        3c69be27-8f8a-40b7-8b50-a0d706e74234
+  :VER:       551376950.210004108
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:EIO8-2747
+  :Category:  primer
+  :Entity:    readme
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]] 
+[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
