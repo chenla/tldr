@@ -2,6 +2,7 @@
 #+TITLE: Chenla TL;DR Title Page Content
 #+STARTUP: showall
 #+PROPERTY: filename
+#+TOC: headlines 4
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/tldr-master/tldr-title-page.org
@@ -11,18 +12,6 @@
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:GIF3-7030
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
-
 
 * Cover
 
