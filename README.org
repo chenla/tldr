@@ -24,3 +24,9 @@
 
 A TL;DR providing an introduction and overview to TL;DR cautonary
 gateway rabbit holes.
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/tldr ]] 
+Please submit pull requests and issues there.  A read
+Only-Mirror is maintained @ [[https://github.com/chenla/tldr ]]
